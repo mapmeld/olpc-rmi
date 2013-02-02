@@ -48,3 +48,7 @@ body > .container{
 .sharper{
   border: 1px solid #444;
 }
+iframe{
+  border: none;
+  overflow: none;
+}
