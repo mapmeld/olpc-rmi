@@ -10,11 +10,18 @@ body > .container{
   background: -moz-linear-gradient(top, darkblue 0%, #c0c0f0 75%, #c0c0f0 85%, darkblue);
   color:#fff;
   text-shadow:#444 2px 4px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
   border-radius:0px;
 }
 .navbar{
   margin-top:-30px;
   font-size:16pt;
+}
+.navbar-inner{
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
 }
 .nav li{
   margin-right:25px;
